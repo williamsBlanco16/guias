@@ -1,6 +1,6 @@
 ## **Chapter 1** – Javascript, Érase una vez javascript
 
-Java y javascript, dadas las similitudes de sus nombres es común suponer que existe una estrecha relación entre ellos más allá del hecho de que ambos son lenguajes de programación, sin embargo no es así. Javascript nace para ser utilizado en  netscape navigator como una propuesta para crear programas para la web en 1995, año en el cual java se encontraba en franco crecimiento y aceptación, por lo que la coincidencia en sus nombre se le atribuye a una estrategia de marketing por parte de javascript.
+Java y javascript, dadas las similitudes de sus nombres es común suponer que existe una estrecha relación entre ellos más allá del hecho de que ambos son lenguajes de programación, sin embargo no es así. Javascript nace para ser utilizado en  netscape navigator como una propuesta para crear programas para la web en 1995, año en el cual java se encontraba en franco crecimiento y aceptación, por lo que la coincidencia en sus nombres se le atribuye a una estrategia de marketing por parte de javascript.
 
 Aunque inicialmente fue concebido para la web, en la actualidad nos podemos servir de javascript para desarrollar aplicaciones de escritorio, móviles, server-side incluso para hacer realidad virtual y machine learning. Todo esto Mediante una variedad de herramientas bien posicionadas y populares en la comunidad de desarrolladores como Angular, React, Vue, Electron, React 360, react native, nodejs, etc.
 
